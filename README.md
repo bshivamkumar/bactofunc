@@ -13,9 +13,9 @@ install.packages("C:/Users/bshivamkumar/File_Path/bactofunc", repos = NULL, type
 library(bactofunc)
 
 run_pipeline(
-  emu_folder = "C:/Users/bshivamkumar/File_Path/emu_files",
-  ref_file = "C:/Users/bshivamkumar/File_Path/N_C_bac_list.xlsx",
-  output_folder = "C:/Users/bshivamkumar/File_Path/output"
+  emu_folder = "C:/Users/Path_to/emu_files",
+  ref_file = "C:/Users/Path_to/N_C_bac_list.xlsx",
+  output_folder = "C:/Users/Path_to/output"
 )
 
 Inputs
